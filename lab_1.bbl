@@ -1,0 +1,31 @@
+\begin{thebibliography}{4}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Bird et~al.(2001)Bird, Smith, and Bird]{Birdetal2001}
+R.~B. Bird, E.~A. Smith, and D.~W. Bird.
+\newblock The hunting handicap: costly signaling in human foraging strategies.
+\newblock \emph{Behavioral Ecology and Sociobiology}, 50:\penalty0 9--19, 2001.
+
+\bibitem[Goldberg and Holland(1988)]{goldberg1988genetic}
+David~E Goldberg and John~H Holland.
+\newblock Genetic algorithms and machine learning.
+\newblock \emph{Machine {L}earning \& AI}, 3\penalty0 (2):\penalty0 95--99,
+  1988.
+
+\bibitem[Nasrabadi(2007)]{nasrabadi2007pattern}
+Nasser~M Nasrabadi.
+\newblock Pattern recognition and machine learning.
+\newblock \emph{Journal of electronic imaging}, 16\penalty0 (4):\penalty0
+  049901, 2007.
+
+\bibitem[Rasmussen(2004)]{rasmussen2004gaussian}
+Carl~Edward Rasmussen.
+\newblock Gaussian processes in machine learning.
+\newblock In \emph{Advanced lectures on machine learning}, pages 63--71.
+  Springer, 2004.
+
+\end{thebibliography}

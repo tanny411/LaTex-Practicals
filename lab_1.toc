@@ -1,0 +1,19 @@
+\contentsline {section}{\numberline {1}Introduction}{1}
+\contentsline {section}{\numberline {2}Tables}{1}
+\contentsline {section}{\numberline {3}Fonts}{1}
+\contentsline {section}{\numberline {4}Checkpoint Tables}{2}
+\contentsline {section}{\numberline {5}Figures}{3}
+\contentsline {section}{\numberline {6}Multiple Figures}{3}
+\contentsline {section}{\numberline {7}Bottom Figure}{4}
+\contentsline {section}{\numberline {8}New page Figure}{5}
+\contentsline {section}{\numberline {9}Practical 5}{5}
+\contentsline {subsection}{\numberline {9.1}Equations}{5}
+\contentsline {subsection}{\numberline {9.2}Symbols}{5}
+\contentsline {subsection}{\numberline {9.3}Matrices}{6}
+\contentsline {subsection}{\numberline {9.4}Greek Letters}{6}
+\contentsline {subsection}{\numberline {9.5}CheckPoint 5}{6}
+\contentsline {section}{\numberline {10}Bibliography}{7}
+\contentsline {section}{\numberline {11}Methods}{7}
+\contentsline {subsection}{\numberline {11.1}Stage 1}{7}
+\contentsline {subsection}{\numberline {11.2}Stage 2}{7}
+\contentsline {section}{\numberline {12}Results}{7}
